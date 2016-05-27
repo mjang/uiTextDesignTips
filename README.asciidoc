@@ -1,0 +1,4 @@
+= Design Tips for UI Text
+
+I'm collecting notes for a potential future UI Text Style Guide. My sources:
+
