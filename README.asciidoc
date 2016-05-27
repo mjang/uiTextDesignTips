@@ -2,3 +2,10 @@
 
 I'm collecting notes for a potential future UI Text Style Guide. My sources:
 
+1) Torrey Podmajersky (Microsoft), Keep 'em Playing https://www.youtube.com/watch?v=AMRfkcmyc40
+
+2) Beth Aitman (Redgate Software), Writing for User Interfaces https://www.youtube.com/watch?v=LemM9PHDX6w
+
+3) Sarah Day (BetterWorks), Copy That: Helping your Users Succeed with Effective Product Copy https://www.youtube.com/watch?v=M_Q1RO0ky2c
+
+4) Salesfor
