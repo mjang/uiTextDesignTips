@@ -8,4 +8,6 @@ I'm collecting notes for a potential future UI Text Style Guide. My sources:
 
 3) Sarah Day (BetterWorks), Copy That: Helping your Users Succeed with Effective Product Copy https://www.youtube.com/watch?v=M_Q1RO0ky2c
 
-4) Salesforce UI Text Style Guide https://developer.salesforce.com/docs/atlas.en-us.198.0.salesforce_pubs_style_guide.meta/salesforce_pubs_style_guide/text_guidelines.htm
+4) Mike Jang's Write The Docs PDX talk: https://docs.google.com/presentation/d/1nCf1rA2CZiulqXrZe5vQMfjGw1I7QBXXtZ4Ra6zfAOk/edit?usp=sharing
+
+5) Salesforce UI Text Style Guide https://developer.salesforce.com/docs/atlas.en-us.198.0.salesforce_pubs_style_guide.meta/salesforce_pubs_style_guide/text_guidelines.htm
